@@ -4,7 +4,7 @@ get==2019.4.13
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
-Pillow==7.1.2
+Pillow==8.2.0
 post==2019.4.13
 public==2019.4.13
 query-string==2019.4.13
